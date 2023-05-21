@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684521799 source:d:\c\cse-1201\bank automation\main.cpp
+	<iostream>
+	<fstream>
+
